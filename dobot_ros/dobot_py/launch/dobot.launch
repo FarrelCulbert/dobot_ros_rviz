@@ -1,0 +1,7 @@
+<launch>
+    <arg name="portname1" default="/dev/ttyUSB0"/>
+    <group ns="dobot1">
+      <node pkg="dobot_driver" name="dobot_server1" type="DobotServer" args="$(arg portname1)" />
+    </group>
+    <node pkg="dobot_py" name="dobot_client1" type="demo_pydobot_ros.py"/>
+</launch>
