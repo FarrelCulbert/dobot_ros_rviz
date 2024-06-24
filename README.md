@@ -23,7 +23,6 @@ cd ~/catkin_ws/
 catkin_make
 source devel/setup.bash
 ```
-<<The name of the workspace that I recommend is "dobot">>
 
 ### Instalation package
 ```sh
