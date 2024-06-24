@@ -1,0 +1,2 @@
+device: ttyUSB0
+queue_depth: 3
