@@ -7,6 +7,11 @@ This repository contains the final project for the robotics course. It integrate
 - [Usage](#Usage)
 - [Reference](#Reference)
 
+## Requirement
+- Ubuntu 20.04
+- ROS noetic
+  If you haven't installed ROS, you can follow the guide below.
+  http://wiki.ros.org/noetic/Installation/Ubuntu
 ## Installation
 
 Instructions on how to install and setup the project.
