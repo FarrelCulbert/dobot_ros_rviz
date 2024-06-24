@@ -23,7 +23,7 @@ source devel/setup.bash
 ### Instalation package
 ```sh
 cd ~/catkin_ws/src
-git clone "this repository"
+git clone https://github.com/FarrelCulbert/dobot_ros_rviz.git
 cd ../
 catkin_make
 ```
